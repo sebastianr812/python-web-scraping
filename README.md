@@ -1,0 +1,1 @@
+This is a Python script to scrape the first 2 pages of Hacker News. The script returns a list of dictionaries containing articles with over 100 votes sorted from most votes to least. 
